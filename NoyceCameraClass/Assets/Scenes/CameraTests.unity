@@ -249,7 +249,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_tPlayer: {fileID: 475760602}
-  m_fDistanceToPlayer: 5
+  m_fDistanceToPlayer: 100
   m_fSpeed: 70
   m_fRotSpeed: 360
   zooming: 0
@@ -540,7 +540,7 @@ CharacterController:
   m_Height: 2
   m_Radius: 0.5
   m_SlopeLimit: 45
-  m_StepOffset: 0.3
+  m_StepOffset: 10
   m_SkinWidth: 0.1
   m_MinMoveDistance: 0.001
   m_Center: {x: 0, y: 0, z: 0}
@@ -867,8 +867,8 @@ RectTransform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 577781157}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 283.5, y: 168, z: 0}
-  m_LocalScale: {x: 0.2953125, y: 0.2953125, z: 0.2953125}
+  m_LocalPosition: {x: 552, y: 243.5, z: 0}
+  m_LocalScale: {x: 0.575, y: 0.575, z: 0.575}
   m_Children:
   - {fileID: 1630868464}
   m_Father: {fileID: 0}
@@ -1558,7 +1558,7 @@ RectTransform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1630868463}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -850, y: 468.88892, z: 0}
+  m_LocalPosition: {x: -850, y: 323.47827, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 577781161}
